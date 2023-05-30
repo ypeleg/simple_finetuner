@@ -13,9 +13,7 @@ pinned: false
 This repository is an hebrew fork of the original simple LLM finetuner. All credit goes to the original author.
 
 [![Open In Colab](https://img.shields.io/static/v1?label=Open%20in%20Colab&message=Select%20HIGH%20RAM&color=yellow&logo=googlecolab)](https://colab.research.google.com/github/ypeleg/simple_finetuner/blob/master/Simple_LLaMA_FineTuner.ipynb)
-[![Open In Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/lxe/simple-llama-finetuner)
-[![](https://img.shields.io/badge/no-bugs-brightgreen.svg)](https://github.com/lxe/no-bugs) 
-[![](https://img.shields.io/badge/coverage-%F0%9F%92%AF-green.svg)](https://github.com/lxe/onehundred/tree/master)
+
 
 Simple LLM Finetuner is a beginner-friendly interface designed to facilitate fine-tuning various language models using [LoRA](https://arxiv.org/abs/2106.09685) method via the [PEFT library](https://github.com/huggingface/peft) on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance.
 
